@@ -1,6 +1,6 @@
 ## Hi and welcome to my profile, I´m Emma Backman 👋
 
--🔭 Currently studying webbdevelopment at Yrgo, currently learning React and C# I'm Intressted in making simple, clean and straightforward code that users easily can navigate.
+-🔭 Currently studying webbdevelopment at Yrgo, at the moment I'm learning React and C#.  Intressted in making simple, clean and straightforward code that users easily can navigate and interact with.
 <br>
 🌱 Searching for LIA 
 <br>
